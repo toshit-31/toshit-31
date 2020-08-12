@@ -1,5 +1,7 @@
 # Toshit Mall
 
+***
+
 ## Skills
 
 <img src= "https://image.flaticon.com/icons/svg/888/888859.svg" width= "80px" height= "80px" />&nbsp;
@@ -13,8 +15,9 @@
 <img src= "https://www.tekkiwebsolutions.com/wp-content/uploads/2017/03/express-design.png" width= "auto" height= "80px" />&nbsp;
 <img src= "https://image.flaticon.com/icons/svg/226/226777.svg" width= "80px" height= "80px" />&nbsp;
 
+***
 
-## Work
+## Works
 
 <a href= "https://webd-t31.github.io/aim/" target= "_blank" style= "text-decoration:none;color:black;">
 <img src= "https://4vector.com/i/free-vector-crosshairs-clip-art_105823_Crosshairs_clip_art_medium.png" width= 64 height= 64 />
